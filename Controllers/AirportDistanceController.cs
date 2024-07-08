@@ -1,5 +1,5 @@
-﻿using AirportDistanceCalculator.Services.Interfaces;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using AirportDistanceCalculator.Services.Interfaces;
 
 namespace AirportDistanceCalculator.Controllers;
 
