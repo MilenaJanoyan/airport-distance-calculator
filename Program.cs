@@ -36,6 +36,8 @@ else
     app.UseExceptionHandler("/Error");
 }
 
+app.UseGlobalExceptionHandler();
+
 app.UseStaticFiles();
 
 app.UseRouting();
